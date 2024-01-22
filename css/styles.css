@@ -1,0 +1,64 @@
+.interactions{
+    text-align: center;
+    color: blue;
+}
+.link{
+    text-align: center;
+    color: blue;
+}
+.object-fit{
+    text-align: center;
+    color: blue;
+}
+.object{
+    display: flex;
+    justify-content: space-between;
+}
+.object-img{
+    height: 250px;
+    width: 250px;
+}
+.opacity{
+    text-align: center;
+    color: blue;
+}
+.shadow{
+    text-align: center;
+    color: blue;
+}
+.width{
+text-align: center;
+color: blue;
+}
+.spacing{
+    text-align: center;
+    color: blue;
+}
+.text{
+    text-align: center;
+    color: blue;
+}
+.font{
+    text-align: center;
+    color: blue;
+}
+.font-weight{
+    text-align: center;
+    color: blue;
+}
+.line-height{
+    text-align: center;
+    color: blue;
+}
+.vertical{
+    text-align: center;
+    color: blue;
+}
+.visibility{
+    text-align: center;
+    color: blue;
+}
+.z-index{
+    text-align: center;
+    color: blue;
+}
